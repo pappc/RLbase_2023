@@ -1,0 +1,5 @@
+hub Consensus_RlBase_2023
+shortLabel Datasets and consensus peak files derived from the RlBase database
+longLabel Datasets and consensus peak files derived from the RlBase database
+genomesFile genomes.txt
+email pappc@upstate.edu
